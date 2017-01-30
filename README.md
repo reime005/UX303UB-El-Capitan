@@ -17,8 +17,8 @@ I had to replace the build-in WiFi-Card with the BCM94352Z DW-1560.
 # What does not work
 * Dedicated Graphics (No driver for the 940M)
 * Bluetooth (Should work normally, but since I don't need it I won't work on it)
-* Three finger trackpad gesture, but everything else I think
-* Sleep mode (The laptom sometimes freezes in the sleep mode and has to be restarted)
+* Three finger trackpad gesture
+* Sleep mode (The laptop sometimes freezes in the sleep mode and has to be restarted)
 
 # Conclusion
 You are free to use my files for your project. No guarantee for anything!
